@@ -1,6 +1,12 @@
-frontend-nanodegree-arcade-game
+# Classic Arcade Game Clone
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Instructions
+1. As you load the Index page, you can select the dificulty level and your character
+2. You can move your character using the up, down, right and left arrows. Or if you are in a touch enabled device, slide your finger making a vertical or horizontal lines to the direction you want your Character to move.
+3. The game ends when you lose all your lives, and you can try to beat the Highest score as long as you don't reload the page
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Rules
+1. For Easy you get 100 points for reaching the water, 200 for Normal and 300 for Hard.
+2. If you get touched by a bug you lose a life
+3. The game ends when you lose all your 3 lives
