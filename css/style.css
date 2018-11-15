@@ -1,3 +1,12 @@
 body {
     text-align: center;
 }
+.container {
+	width: 100%;
+	max-width: 660px;
+	margin: auto;
+}
+canvas {
+	display: flex;
+	margin: auto;
+}
